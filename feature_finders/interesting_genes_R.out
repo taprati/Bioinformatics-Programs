@@ -1,0 +1,6 @@
+NW_004531725.1	Gnomon	gene	7500474	7517712	.	-	.	ID=gene5857;Dbxref=GeneID:101469056;Name=golm1;gbkey=Gene;gene=golm1;gene_biotype=protein_coding
+NW_004531725.1	Gnomon	gene	7519845	7529062	.	-	.	ID=gene5858;Dbxref=GeneID:101469718;Name=LOC101469718;gbkey=Gene;gene=LOC101469718;gene_biotype=protein_coding
+NW_004531725.1	Gnomon	gene	7539777	7540807	.	-	.	ID=gene5859;Dbxref=GeneID:101470201;Name=LOC101470201;gbkey=Gene;gene=LOC101470201;gene_biotype=lncRNA
+NW_004531725.1	Gnomon	gene	7547076	7560345	.	+	.	ID=gene5860;Dbxref=GeneID:101470384;Name=slc1a3;gbkey=Gene;gene=slc1a3;gene_biotype=protein_coding
+NW_004531725.1	Gnomon	gene	7562246	7591891	.	+	.	ID=gene5861;Dbxref=GeneID:101470690;Name=nipbl;gbkey=Gene;gene=nipbl;gene_biotype=protein_coding
+NW_004531725.1	Gnomon	gene	7593638	7602059	.	+	.	ID=gene5862;Dbxref=GeneID:101485342;Name=ndc80;gbkey=Gene;gene=ndc80;gene_biotype=protein_coding;partial=true

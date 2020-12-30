@@ -1,0 +1,15 @@
+
+Input file: scaffold_15.gff
+Chromosome: NW_004531725.1
+Type: gene
+Start Index: 7500000
+End Index: 7600000
+
+These inputs should output 6 genes of interest
+
+Using the python tool:
+feature_finder.py -i scaffold_15.gff -o interesting_genes_py.out -c NW_004531725.1 -t gene -s 7500000 -e 7600000
+
+Using the R tool:
+feature_finder.R scaffold_15.gff NW_004531725.1 gene 7500000 7600000
+
